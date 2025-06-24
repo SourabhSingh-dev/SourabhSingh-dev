@@ -35,7 +35,7 @@
 
 | Repo | Description |
 |------|-------------|
-| [`Data-Science-Journey`](https://github.com/SourabhSingh-dev/Data-Science-Journey) | My daily logs and projects while learning Data Science from scratch |
+| [`Data-Science-Journey`]([https://github.com/SourabhSingh-dev/Data-Science-Journey](https://github.com/SourabhSingh-dev/Data-Science-From-Scratch)) | My daily logs and projects while learning Data Science from scratch |
 | [`Project-Aaravi`](https://github.com/SourabhSingh-dev/Project-Aaravi) *(coming soon)* | AI-powered assistant project integrating voice, vision & intelligence |
 
 ---
