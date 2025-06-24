@@ -41,11 +41,6 @@
 ---
 
 
-### 🧭 Motto I Live By
-
-> “I build in silence. Aaravi will speak for me.”  
-> — Sourabh Singh
-
 <br/>
 <h3 align="left">Connect with me:</h3>
 <br/>
