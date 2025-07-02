@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **my journey from Web Development to Data Science**
 
-- 📫 How to reach me **sourabhsnew01@gmail.com**
+- 📫 How to reach me **sourabhnew01@gmail.com**
 
 
 <div align="center"> 
